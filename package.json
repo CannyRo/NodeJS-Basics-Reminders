@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-basics-reminders",
+  "version": "1.0.0",
+  "description": "NodeJS Basics Reminders is based on the Udemy course \"NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)\" from Maximilian Schwarzmüller.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CannyRo/NodeJS-Basics-Reminders.git"
+  },
+  "author": "@CannyRo",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/CannyRo/NodeJS-Basics-Reminders/issues"
+  },
+  "homepage": "https://github.com/CannyRo/NodeJS-Basics-Reminders#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
